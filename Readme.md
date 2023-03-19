@@ -3,7 +3,7 @@ CBshoes is a fictional company (based on real-life Schuh retail in the U.K) I di
 
 The purpose of this report is to create: a) a compelling and relevant narrative b)highlighting key data c) providing insights and how these might drive change to the business.
 
-The shorter data storytelling version can be found here: [datastorytelling](https://public.tableau.com/views/cbshoes/website-session-and-users?:language=en-GB&:display_count=n&:origin=viz_share_link)
+**_The shorter data storytelling version can be found here_**: [CBshoesreport_shortver](https://public.tableau.com/views/cbshoes/website-session-and-users?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ## I. Background ##
  
