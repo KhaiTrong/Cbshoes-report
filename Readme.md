@@ -5,6 +5,8 @@ The purpose of this report is to create: a) a compelling and relevant narrative 
 
 **_The shorter data storytelling version can be found here_**: [CBshoesreport_shortver](https://public.tableau.com/views/cbshoes/website-session-and-users?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
+**_Dashboard_**: [Dashboard_traditionalmetrics](https://public.tableau.com/views/CBshoestraditionalmetrics-Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+
 ## I. Background ##
  
 CBshoes is a shoe retailer brand operating in the U.K, this report is created to be viewed by the business development and marketing executive team. For that reason this report will be leaning on marketing analytics. The first part of the report is about traditional metris which include info and/or insights on sales, socio-demomgraphic and sales by brands. 
