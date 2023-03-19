@@ -9,7 +9,7 @@ The purpose of this report is to create: a) a compelling and relevant narrative 
 
 ## I. Background ##
  
-CBshoes is a shoe retailer brand operating in the U.K, this report is created to be viewed by the business development and marketing executive team. For that reason this report will be leaning on marketing analytics. The first part of the report is about traditional metris which include info and/or insights on sales, socio-demomgraphic and sales by brands. 
+CBshoes is a shoe retailer brand operating in the U.K, this report is created to be viewed by the business development and marketing executive team. The first part of the report is about traditional metris which include info and/or insights on sales, socio-demomgraphic and sales by brands. 
 
 ## II. Analytics ##
 ![charts](https://user-images.githubusercontent.com/125301325/226138639-1a4341cb-61d2-4116-9616-908d17aa9aca.png)
